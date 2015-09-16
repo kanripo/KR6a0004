@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 七佛父母姓字經
+#+DATE: 2015-08-30 19:27:47.713005
+#+PROPERTY: JUAN 0
