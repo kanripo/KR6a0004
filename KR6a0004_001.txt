@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:27:48.313155
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:18
 #+TITLE: 七佛父母姓字經
 #+PROPERTY: CBETA_ID T01n0004
 #+PROPERTY: ID KR6a0004
